@@ -50,7 +50,7 @@ void Tree::insert(int data){
   }
 }
 
-void Tree::remove(int data){ ///////not complete//////
+void Tree::remove(int data){ /////// NOT COMPLETE -- NEEDS MORE STUDYING //////
   if(root == NULL)return;
     
   else{
